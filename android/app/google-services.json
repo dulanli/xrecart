@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "940089612500",
+    "project_id": "xrecart-a0c2a",
+    "storage_bucket": "xrecart-a0c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940089612500:android:467e64b119880f839f4341",
+        "android_client_info": {
+          "package_name": "com.example.xrecart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940089612500-0pih0970dh43n294d858a7tchpdk3o17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrgFOgjdJtk7D8fcjhdpkd27PlbNrarEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940089612500-0pih0970dh43n294d858a7tchpdk3o17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940089612500:android:d1a19541fa7e42629f4341",
+        "android_client_info": {
+          "package_name": "com.example.xrecartv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940089612500-0pih0970dh43n294d858a7tchpdk3o17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrgFOgjdJtk7D8fcjhdpkd27PlbNrarEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940089612500-0pih0970dh43n294d858a7tchpdk3o17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
